@@ -33,7 +33,9 @@
 入群方式请参考公众号「无障碍设计小组」菜单里的「我要参与 > 入群讨论」。
 
 想在知识库里添加内容，请在群内at**知识库维护管理员**：
-* 夏冰莹（[@byxia](https://github.com/byxia)）
+* 夏冰莹（[@byxia](https://github.com/byxia)）*- 主要负责人*
 * 明瑞（[@DrustZ](https://github.com/DrustZ)）
 *  李朗（[@lilangtop](https://github.com/lilangtop)）
-* #TODO
+*  杨永全（[@qt06](https://github.com/qt06)）
+*  王玄（[@xuan-w](https://github.com/xuan-w)）
+*  丁尧（[@yao-ding](https://github.com/yao-ding)）
