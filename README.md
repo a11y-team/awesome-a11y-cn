@@ -39,4 +39,4 @@
 *  丁尧（[@yao-ding](https://github.com/yao-ding)）
 *  李朗（[@lilangtop](https://github.com/lilangtop)）
 *  杨永全（[@qt06](https://github.com/qt06)）
-*  纪远([@jiyuan321](https://github.com/jiyuan321))
+*  纪元（[@jiyuan321](https://github.com/jiyuan321)）
